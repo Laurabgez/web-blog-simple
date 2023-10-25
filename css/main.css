@@ -6,7 +6,7 @@ body {
 }
 
 .link {
-    color: tomato;
+    color: red;
     text-decoration: none;
 }
 
@@ -15,12 +15,12 @@ body {
 }
 
 .header__title {
-    color: tomato;
+    color: red;
     font-weight: normal;
     text-transform: uppercase;
 }
 .blog__item {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #575757;
     padding-block: 2rem;
 }
 .blog__item--remove-line {
@@ -41,7 +41,7 @@ body {
 }
 
 .hero__line {
-    background: tomato;
+    background: red;
     color: white;
     padding: .3rem;
     display: inline-block;
@@ -55,16 +55,16 @@ body {
     font-size: 1.5rem
 }
 .blog__time {
-    color: gray;
+    color: #575757;
     font-style: italic;
 }
 .link--title-blog {
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: gray;
+    text-decoration-color: #575757;
 }
 .link--read-more-blog{
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: gray;
+    text-decoration-color: #575757;
 }
